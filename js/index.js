@@ -478,8 +478,8 @@ $(document).ready(function () {
 });
 	
 });
-function AramburoAyala() {
-    window.open("pases/AramburoAyala.html", "_self");        
+function CarballoDominguez() {
+    window.open("pases/CarballoDominguez.html", "_self");        
 }
 function DiazAyala() {
     window.open("pases/DiazAyala.html", "_self");        
@@ -686,7 +686,7 @@ function sinNombre() {
 
 
 
- function copiarAramburoAyala(){
+ function copiarCarballoDominguez(){
   var origen = document.getElementById('target1');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
