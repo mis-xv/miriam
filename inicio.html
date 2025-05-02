@@ -124,6 +124,16 @@
                     <source src="musica/musica.mp3" type="audio/mpeg">
             </audio>
         </div>
+ 
+
+<script>
+    var music = document.getElementById('music');
+    var progressed = document.getElementById('progressed');
+    music.ontimeupdate = function(e){
+        progressed.style.width = Math.floor(music. currentTime*100 / music.duration +"%";
+    }
+</script>
+
   <div class="justify-content-center playpause"> 
   </div>
     <div class="container col-10 col-md-6 portadaBautizo "> 
