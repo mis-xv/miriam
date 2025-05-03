@@ -481,125 +481,125 @@ $(document).ready(function () {
 function CarballoDominguez() {
     window.open("pases/CarballoDominguez.html", "_self");        
 }
-function DiazAyala() {
-    window.open("pases/DiazAyala.html", "_self");        
+function OctavioSalazar() {
+    window.open("pases/OctavioSalazar.html", "_self");        
 }
-function AyalaVizcarra() {
-    window.open("pases/AyalaVizcarra.html", "_self");        
+function PamelaSanchez() {
+    window.open("pases/PamelaSanchez.html", "_self");        
 }
-function AyalaRodriguez() {
-    window.open("pases/AyalaRodriguez.html", "_self");        
+function CristianAvalos() {
+    window.open("pases/CristianAvalos.html", "_self");        
 }
-function AyalaMejorado() {
-    window.open("pases/AyalaMejorado.html", "_self");        
+function FernandaDelgado() {
+    window.open("pases/FernandaDelgado.html", "_self");        
 }
-function AyalaDelgado() {
-    window.open("pases/AyalaDelgado.html", "_self");        
+function RenataGonzalez() {
+    window.open("pases/RenataGonzalez.html", "_self");        
 }
-function GomezAyala() {
-    window.open("pases/GomezAyala.html", "_self");        
+function JudithRocha() {
+    window.open("pases/JudithRocha.html", "_self");        
 }
-function BlancaJimenez() {
-    window.open("pases/BlancaJimenez.html", "_self");        
+function JimenaHernandez() {
+    window.open("pases/JimenaHernandez.html", "_self");        
 }
-function RamosAramburo() {
-    window.open("pases/RamosAramburo.html", "_self");        
+function AlvarezVillarreal() {
+    window.open("pases/AlvarezVillarreal.html", "_self");        
 }
 
-function AramburoBarraza() {
-    window.open("pases/AramburoBarraza.html", "_self");        
+function JulietaRomero() {
+    window.open("pases/JulietaRomero.html", "_self");        
 }
-function GarciaDiaz() {
-    window.open("pases/GarciaDiaz.html", "_self");        
+function AnaRodriguez() {
+    window.open("pases/AnaRodriguez.html", "_self");        
 }
 /////////////////////////////////////////////////////////
-function AzucenaDiaz() {
-    window.open("pases/AzucenaDiaz.html", "_self");        
+function CristianCarballo() {
+    window.open("pases/CristianCarballo.html", "_self");        
 }
-function DiazSalazar() {
-    window.open("pases/DiazSalazar.html", "_self");        
+function SalazarContreras() {
+    window.open("pases/SalazarContreras.html", "_self");        
 }
-function BarrazaDiaz() {
-    window.open("pases/BarrazaDiaz.html", "_self");        
+function HelyGasa() {
+    window.open("pases/HelyGasa.html", "_self");        
 }
-function AyalaCeseñas() {
-    window.open("pases/AyalaCeseñas.html", "_self");        
+function MarianaVallejo() {
+    window.open("pases/MarianaVallejo.html", "_self");        
 }
-function MoralesAyala() {
-    window.open("pases/MoralesAyala.html", "_self");        
+function DehinaCoronado() {
+    window.open("pases/DehinaCoronado.html", "_self");        
 }
-function AyalaGuereca() {
-    window.open("pases/AyalaGuereca.html", "_self");        
+function MariaFernandaHeredia() {
+    window.open("pases/MariaFernandaHeredia.html", "_self");        
 }
 function ValdezRodriguez() {
     window.open("pases/ValdezRodriguez.html", "_self");        
 }
 
-function RodriguezMoreno() {
-    window.open("pases/RodriguezMoreno.html", "_self");        
+function MarcoSalazar() {
+    window.open("pases/MarcoSalazar.html", "_self");        
 }
-function LopezAyala() {
-    window.open("pases/LopezAyala.html", "_self");        
+function BiancaSalinas() {
+    window.open("pases/BiancaSalinas.html", "_self");        
 }
-function GomezGodinez() {
-    window.open("pases/GomezGodinez.html", "_self");        
+function KarelySalinas() {
+    window.open("pases/KarelySalinas.html", "_self");        
 }
-function EspinozaGomez() {
-    window.open("pases/EspinozaGomez.html", "_self");        
+function OmarDominguez() {
+    window.open("pases/OmarDominguez.html", "_self");        
 }
 //////////////////////////////////////////////////////////7
-function RodriguezAyala() {
-    window.open("pases/RodriguezAyala.html", "_self");        
+function EstebanDominguez() {
+    window.open("pases/EstebanDominguez.html", "_self");        
 }
-function AyalaHernandez() {
-    window.open("pases/AyalaHernandez.html", "_self");        
+function ContrerasMartinez() {
+    window.open("pases/ContrerasMartinez.html", "_self");        
 }
-function AyalaMendez() {
-    window.open("pases/AyalaMendez.html", "_self");        
+function AngelicaHernandez() {
+    window.open("pases/AngelicaHernandez.html", "_self");        
 }
-function AyalaCabrera() {
-    window.open("pases/AyalaCabrera.html", "_self");        
+function IselaDominguez() {
+    window.open("pases/IselaDominguez.html", "_self");        
 }
-function FranciscaJaquez() {
-    window.open("pases/FranciscaJaquez.html", "_self");        
+function CastroMartinez() {
+    window.open("pases/CastroMartinez.html", "_self");        
 }
 
-function HumbertoArrieta() {
-    window.open("pases/HumbertoArrieta.html", "_self");        
+function DominguezZabala() {
+    window.open("pases/DominguezZabala.html", "_self");        
 }
-function ArrietaMuñoz() {
-    window.open("pases/ArrietaMuñoz.html", "_self");        
+function RosarioSarmiento() {
+    window.open("pases/RosarioSarmiento.html", "_self");        
 }
-function ArrietaFlores() {
-    window.open("pases/ArrietaFlores.html", "_self");        
+function GeovannyVelazquez() {
+    window.open("pases/GeovannyVelazquez.html", "_self");        
 }
-function ArrietaFelix() {
-    window.open("pases/ArrietaFelix.html", "_self");        
+function SerranoMartinez() {
+    window.open("pases/SerranoMartinez.html", "_self");        
 }
-function HernandezArrieta() {
-     window.open("pases/HernandezArrieta.html", "_self");          
+function SaenzHernandez() {
+     window.open("pases/SaenzHernandez.html", "_self");          
 }
-function ArrietaGonzalez() {
-    window.open("pases/ArrietaGonzalez.html", "_self");   
+function ZulmaDiaz() {
+    window.open("pases/ZulmaDiaz.html", "_self");   
 }
 //////////////////////////////////////////////////////////////
-function ArrietaGandara() {
-    window.open("pases/ArrietaGandara.html", "_self");        
+function SamanthaZaldivar() {
+    window.open("pases/SamanthaZaldivar.html", "_self");        
 }
-function GutierrezArrieta() {
-    window.open("pases/GutierrezArrieta.html", "_self");        
+function EstradaCaldera() {
+    window.open("pases/EstradaCaldera.html", "_self");        
 }
-function ArrietaAguilar() {
-    window.open("pases/ArrietaAguilar.html", "_self");        
+function SalazarHernandez() {
+    window.open("pases/SalazarHernandez.html", "_self");        
 }
-function ArrietaAguilar6() {
-    window.open("pases/ArrietaAguilar6.html", "_self");        
+function MartinezSalazar() {
+    window.open("pases/MartinezSalazar.html", "_self");        
 }
-function MarioArrieta() {
-    window.open("pases/MarioArrieta.html", "_self");        
+function JoseLuisVigueras() {
+    window.open("pases/JoseLuisVigueras.html", "_self");        
 }
-function AguilarArrieta() {
-    window.open("pases/AguilarArrieta.html", "_self");        
+function GuadalupeDominguez() {
+    window.open("pases/GuadalupeDominguez.html", "_self");        
 }
 function MartinezArrieta() {
     window.open("pases/MartinezArrieta.html", "_self");        
@@ -700,7 +700,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarDiazAyala(){
+ function copiarOctavioSalazar(){
   var origen = document.getElementById('target2');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -714,7 +714,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaVizcarra(){
+ function copiarPamelaSanchez(){
   var origen = document.getElementById('target3');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -728,7 +728,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaRodriguez(){
+ function copiarCristianAvalos(){
   var origen = document.getElementById('target4');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -742,7 +742,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaMejorado(){
+ function copiarFernandaDelgado(){
   var origen = document.getElementById('target5');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -756,7 +756,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaDelgado(){
+ function copiarRenataGonzalez(){
   var origen = document.getElementById('target6');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -770,7 +770,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarGomezAyala(){
+ function copiarJudithRocha(){
   var origen = document.getElementById('target7');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -784,7 +784,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarBlancaJimenez(){
+ function copiarJimenaHernandez(){
   var origen = document.getElementById('target8');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -798,7 +798,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarRamosAramburo(){
+ function copiarAlvarezVillarreal(){
   var origen = document.getElementById('target9');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -813,7 +813,7 @@ function sinNombre() {
   document.execCommand('paste');
 }
 
- function copiarAramburoBarraza(){
+ function copiarJulietaRomero(){
   var origen = document.getElementById('target10');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -827,7 +827,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarGarciaDiaz(){
+ function copiarAnaRodriguez(){
   var origen = document.getElementById('target11');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -841,7 +841,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAzucenaDiaz(){
+ function copiarCristianCarballo(){
   var origen = document.getElementById('target12');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -855,7 +855,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarDiazSalazar(){
+ function copiarSalazarContreras(){
   var origen = document.getElementById('target13');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -869,7 +869,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarBarrazaDiaz(){
+ function copiarHelyGasa(){
   var origen = document.getElementById('target14');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -883,7 +883,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaCeseñas(){
+ function copiarMarianaVallejo(){
   var origen = document.getElementById('target15');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -897,7 +897,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarMoralesAyala(){
+ function copiarDehinaCoronado(){
   var origen = document.getElementById('target16');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -911,7 +911,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaGuereca(){
+ function copiarMariaFernandaHeredia(){
   var origen = document.getElementById('target17');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -941,7 +941,7 @@ function sinNombre() {
 }
 
 
-function copiarRodriguezMoreno(){
+function copiarMarcoSalazar(){
   var origen = document.getElementById('target19');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -955,7 +955,7 @@ function copiarRodriguezMoreno(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarLopezAyala(){
+ function copiarBiancaSalinas(){
   var origen = document.getElementById('target20');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -969,7 +969,7 @@ function copiarRodriguezMoreno(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarGomezGodinez(){
+ function copiarKarelySalinas(){
   var origen = document.getElementById('target21');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -983,7 +983,7 @@ function copiarRodriguezMoreno(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarEspinozaGomez(){
+ function copiarOmarDominguez(){
   var origen = document.getElementById('target22');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -997,7 +997,7 @@ function copiarRodriguezMoreno(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarRodriguezAyala(){
+ function copiarEstebanDominguez(){
   var origen = document.getElementById('target23');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1011,7 +1011,7 @@ function copiarRodriguezMoreno(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaHernandez(){
+ function copiarContrerasMartinez(){
   var origen = document.getElementById('target24');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1025,7 +1025,7 @@ function copiarRodriguezMoreno(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaMendez(){
+ function copiarAngelicaHernandez(){
   var origen = document.getElementById('target25');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1039,7 +1039,7 @@ function copiarRodriguezMoreno(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAyalaCabrera(){
+ function copiarIselaDominguez(){
   var origen = document.getElementById('target26');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1054,7 +1054,7 @@ function copiarRodriguezMoreno(){
   document.execCommand('paste');
 }
 
-function copiarFranciscaJaquez(){
+function copiarCastroMartinez(){
   var origen = document.getElementById('target27');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1068,7 +1068,7 @@ function copiarFranciscaJaquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarHumbertoArrieta(){
+ function copiarDominguezZabala(){
   var origen = document.getElementById('target28');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1082,7 +1082,7 @@ function copiarFranciscaJaquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarArrietaMuñoz(){
+ function copiarRosarioSarmiento(){
   var origen = document.getElementById('target29');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1096,7 +1096,7 @@ function copiarFranciscaJaquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarArrietaFlores(){
+ function copiarGeovannyVelazquez(){
   var origen = document.getElementById('target30');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1110,7 +1110,7 @@ function copiarFranciscaJaquez(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarArrietaFelix(){
+ function copiarSerranoMartinez(){
   var origen = document.getElementById('target31');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1125,7 +1125,7 @@ function copiarFranciscaJaquez(){
   document.execCommand('paste');
 }
 
- function copiarHernandezArrieta(){
+ function copiarSaenzHernandez(){
   var origen = document.getElementById('target32');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1139,7 +1139,7 @@ function copiarFranciscaJaquez(){
   destino.focus();
   document.execCommand('paste');
 }
-function copiarArrietaGonzalez(){
+function copiarZulmaDiaz(){
   var origen = document.getElementById('target33');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1154,7 +1154,7 @@ function copiarArrietaGonzalez(){
   document.execCommand('paste');
 }
 
-function copiarArrietaGandara(){
+function copiarSamanthaZaldivar(){
   var origen = document.getElementById('target34');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1168,7 +1168,7 @@ function copiarArrietaGandara(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarGutierrezArrieta(){
+ function copiarEstradaCaldera(){
   var origen = document.getElementById('target35');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1182,7 +1182,7 @@ function copiarArrietaGandara(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarArrietaAguilar(){
+ function copiarSalazarHernandez(){
   var origen = document.getElementById('target36');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1196,7 +1196,7 @@ function copiarArrietaGandara(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarArrietaAguilar6(){
+ function copiarMartinezSalazar(){
   var origen = document.getElementById('target37');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1210,7 +1210,7 @@ function copiarArrietaGandara(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarMarioArrieta(){
+ function copiarJoseLuisVigueras(){
   var origen = document.getElementById('target38');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1224,7 +1224,7 @@ function copiarArrietaGandara(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarAguilarArrieta(){
+ function copiarGuadalupeDominguez(){
   var origen = document.getElementById('target39');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
