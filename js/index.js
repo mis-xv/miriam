@@ -487,8 +487,8 @@ function OctavioSalazar() {
 function PamelaSanchez() {
     window.open("pases/PamelaSanchez.html", "_self");        
 }
-function CristianAvalos() {
-    window.open("pases/CristianAvalos.html", "_self");        
+function CristianNava() {
+    window.open("pases/CristianNava.html", "_self");        
 }
 function FernandaDelgado() {
     window.open("pases/FernandaDelgado.html", "_self");        
@@ -728,7 +728,7 @@ function sinNombre() {
   destino.focus();
   document.execCommand('paste');
 }
- function copiarCristianAvalos(){
+ function copiarCristianNava(){
   var origen = document.getElementById('target4');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
