@@ -601,11 +601,11 @@ function JoseLuisVigueras() {
 function GuadalupeDominguez() {
     window.open("pases/GuadalupeDominguez.html", "_self");        
 }
-function MartinezArrieta() {
-    window.open("pases/MartinezArrieta.html", "_self");        
+function inicio1() {
+    window.open("pases/inicio1.html", "_self");        
 }
-function LeonArrieta() {
-    window.open("pases/LeonArrieta.html", "_self");        
+function inicio2() {
+    window.open("pases/inicio2.html", "_self");        
 }
 function GarciaLujan() {
     window.open("pases/GarciaLujan.html", "_self");        
@@ -1238,7 +1238,7 @@ function copiarSamanthaZaldivar(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarMartinezArrieta(){
+ function copiarinicio1(){
   var origen = document.getElementById('target40');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
@@ -1252,7 +1252,7 @@ function copiarSamanthaZaldivar(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarLeonArrieta(){
+ function copiarinicio2(){
   var origen = document.getElementById('target41');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
